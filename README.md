@@ -1,2 +1,20 @@
 # Class-OOPLAB
-OOPLAB
+- 01-Q1-IO Manipulation
+	- 2D array
+	- 動態擴充Array
+	- setw(): use to set the field width to be used on output operations 
+- 01-Q1-IO Manipulation
+	- EOF
+- 01-Q2-大數相加 : 先以char計算後再強制轉換成int
+	- BigInt Add
+	- string length
+	- char to int
+- 02-Q1-迴文
+- 02-Q2-畫三角形
+- 03-Q1-fraction-EgyptianMethod
+	- Array
+	- EgyptianMethod (1/X = 1/A +1/B)
+- 03-Q2-Calaulator
+	- Vector
+	- Struct
+	- char to int
